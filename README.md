@@ -1,6 +1,4 @@
-# LokerHub
-Temukan Pekerjaan dan Kandidat Terbaik \
-Kelompok Spontan \
+# senpro_b3_14
 Ketua Kelompok: \
-Anggota 1: Muhammad Rendy 22/503275/TK/54980 \
+Anggota 1: \
 Anggota 2:
